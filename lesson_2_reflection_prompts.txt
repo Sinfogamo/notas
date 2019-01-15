@@ -1,0 +1,33 @@
+¿Qué sucede cuando se inicializa un repositorio? ¿Por qué necesitas hacerlo?
+
+se crea una carpeta .git, necesitas hacerlo para que guarde informacion sobre los historiales que vas a ir creando
+
+¿En qué se diferencia el área de preparación del directorio de trabajo y del repositorio?
+¿Qué valor crees que ofrece?
+
+el area de trabajo es para preparar el archivo que se va a subir en un commit y el repositorio es el lugar donde 
+se almacena toda la informacion
+
+¿Cómo puede usar el área de preparación para asegurarse de que tiene un compromiso por cambio lógico?
+
+para hacer comparaciones entre los cambios realizados y los commits echos anteriormente y asi comprobar que la informacion
+es relavante
+
+¿Cuáles son algunas situaciones en las que las sucursales serían útiles para mantener su historial organizado? 
+¿Cómo ayudarían las ramas?
+
+para poder agregar nuevos experimentos al proyecto sin necesidad de modificar una version final y estable
+
+¿Cómo te ayudan los diagramas a visualizar la estructura de la rama?
+
+para entender mejor los commits y asi saber a que partes podemos acceder desde nuestra rama y como podemos manipularlo
+
+¿Cuál es el resultado de fusionar dos ramas juntas? ¿Por qué lo representamos en
+¿El diagrama como lo hacemos?
+
+para asi poder unir dos partes de un proyecto en uno solo, y al tener un diagrama podemos observar que commits son los importantes y saber que parte nos interesa
+
+¿Cuáles son los pros y los contras de la fusión automática de Git frente a la fusión siempre realizada a mano?
+
+los pros son que cuando no se tienen ambiguedades se generan de forma rapida y sin problemas, los contras son que hay que hacer
+cambios a mano cuando hay alguna ambiguedad o uso incorrecto de algunos elementos en el codigo.
